@@ -1,0 +1,567 @@
+.section1{
+    width: 100vw;
+    height: 72vh;
+  
+}
+
+.nikinsta{
+transition: transform 250ms;
+display: inline-block;
+margin-left: 18%;
+margin-top: -8%;
+}
+
+@media only screen and (min-width: 768px) and (max-height: 1024px)
+    and (-webkit-min-device-pixel-ratio: 1.5) and (hover: none) {
+          .AboutPageHai{
+   background-image: url("Work%20%c3%a2%c2%80%c2%93%201%20(2.html)-min.png");
+  background-repeat: no-repeat, repeat;
+ background-size: cover; 
+}
+    }
+
+
+
+.mysocial1:hover {
+    transform: translateY(-2px);
+}
+
+
+.team-desig{
+    margin: -5% 0 2% 1%;
+}
+.yo-div{
+    padding: 7.5% 2% !important;
+}
+
+
+@media only screen   
+and (min-device-width : 920px)   {
+    .img-card1 img{width:100%;height:300px;object-fit:cover;}
+.mypad8forinfu{
+    padding: 4% 8% 8%;
+}
+.img-card2 img{width:100%;height: 300px;object-fit:cover;}
+.img-card2{margin-bottom:15px;margin-top:15px;}
+
+.img-cardala{
+  margin-bottom:15px;margin-top:15px;
+}
+.img-cardala img{
+ width:100%;height: 300px;object-fit:fill;;
+}
+
+
+.img-card4 img{width:100%;height: 400px;object-fit:cover;}
+
+
+    .AboutPageHai{
+   background-image: url("Work%20%c3%a2%c2%80%c2%93%201%20(2.html)-min.png");
+  background-repeat: no-repeat, repeat;
+ background-size: cover; 
+}
+  .post__title {
+        font-size: 0.97rem;
+    }
+    .TeamAcor{
+        padding-top: 4%;
+    }
+    #media-content{
+        padding-top: 3%;
+    }
+
+    .about-heading {
+    font-size: 6rem;
+    top: 10%;
+    line-height: 1;
+    position: absolute;
+    padding: 0 8%;
+    }
+    .myMediaHr{
+        margin-left: -2%;
+    }
+
+    .mypara-pad{
+        padding: 0.7% 0 7%;
+    }
+    .mypara-pad1{
+    padding: 0.7% 0 2%;
+   }
+   .mypara-pad2{
+    padding: 2% 0% 0%;
+   }
+   .about-us-last {
+    padding: 2% 2% 0;
+}
+    
+.Tean-section-padding  {
+    padding:8% 8% ;
+}
+
+.mysec1{padding: 4.6% 8%; }
+}
+
+.sub-headiing-para{
+position: absolute;
+right: 9%;
+top: 69%;
+}
+
+.nav-item > .active {
+    border-bottom: 1px solid #333;
+}
+
+.mediabox{
+    height: 209px;
+    width: 202px;
+}
+
+.influencer-row-2{
+    margin-bottom: 1%;
+}
+
+.influencer-row-1{
+    padding: 3% 0 1%;
+}
+
+/*@media only screen   
+and (min-device-width : 800px) and (max-device-width : 1280px) {
+ 
+    .about-sub-headiing-para {
+        position: absolute;
+        padding: 35.2% 0% 0 50%;
+    }
+}
+
+
+@media only screen   
+and (min-device-width : 1289px) and (max-device-width : 1366px) {
+ 
+    .about-sub-headiing-para {
+        position: absolute;
+        padding: 32.9% 0% 0 54%;
+    }
+    
+
+}
+
+
+
+@media only screen   
+and (min-device-width : 1388px) and (max-device-width : 1599px) {
+ 
+    .about-sub-headiing-para {
+        position: absolute;
+        padding: 36.6% 0% 0 49%;
+    }
+
+}*/
+
+.yo-div-ser{
+    padding: 7% 0% !important;
+}
+
+
+
+
+.img-card img{width:100%;height:300px;object-fit:cover;}
+.img-card{margin-bottom:15px;margin-top:15px;}
+
+
+
+
+
+.img-cardfluid img{width:100%;object-fit:cover;}
+
+
+
+
+
+@media only screen and (min-width: 1920px){
+    .AboutPageHai{
+   background-image: url("Work%20%c3%a2%c2%80%c2%93%201%20(1.html).png");
+  background-repeat: no-repeat, repeat;
+ background-size: cover; 
+}
+}
+@media (min-width: 576px){
+.modal-dialog {
+    max-width: 758px !important;
+    /* height: 80%; */
+    margin: 1.75rem auto;
+}
+}
+
+.influencer-para{
+    font-size: 0.88em;
+}
+
+
+.personname1{
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
+@media (max-width: 576px){
+.personname{
+    font-size: 1rem;
+}
+.post__title {
+ 
+    margin: 0 0 0.4rem !important;
+  
+}
+}
+
+@media (min-width: 800px){
+.personname{
+    font-size: 1.8rem;
+}
+}
+
+.mybutton88 {
+  font-size: 1rem;
+  padding: 0.35em 0.75em;
+  line-height: 1;
+  background-color: transparent;
+  border: 0.125rem solid #2a2a2a;
+  border-radius: 2rem;
+  cursor: pointer;
+  -webkit-transition: 0.1s;
+  transition: 0.1s;
+  outline: 0;
+}
+.mybutton88:hover {
+  background-color: #2a2a2a;
+  color: #fff;
+}
+.mybutton88 .fa {
+  font-size: 0.75em;
+  margin-left: 0.5em;
+}
+.mybutton88.btn--primary {
+  border-color: #042A4F;
+  color: #042A4F;
+}
+.mybutton88.btn--primary:hover {
+  background-color: #042A4F;
+  color: #fff;
+}
+.mybutton88.btn--accent {
+  border-color: #E65891;
+  color: #E65891;
+}
+.mybutton88.btn--accent:hover {
+  background-color: #E65891;
+  color: #fff;
+}
+
+.posts {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 2.5rem;
+}
+@media (max-width: 1140px) {
+  .posts {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 564px) {
+  .posts {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.post__image {
+  width: 100%;
+  height: 240px;
+  position: relative;
+  overflow: hidden;
+}
+.post__image:before, .post__image:after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+.post__image:before {
+  background-size: cover;
+  background-position: center center;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-filter: blur(0);
+          filter: blur(0);
+  -webkit-transition: 2s cubic-bezier(0, 0.6, 0.2, 1);
+  transition: 2s cubic-bezier(0, 0.6, 0.2, 1);
+}
+.post__image:after {
+  background: linear-gradient(30deg, #042A4F 0%, #E65891 100%);
+  background-size: 100% 300%;
+  background-position: bottom left;
+  opacity: 0.15;
+  -webkit-transition: 2s cubic-bezier(0, 0.6, 0.2, 1);
+  transition: 2s cubic-bezier(0, 0.6, 0.2, 1);
+}
+.post__image--1:before {
+  background-image: url("media/media1.png");
+}
+.post__image--2:before {
+  background-image: url("media/media2.png");
+}
+.post__image--3:before {
+  background-image: url("media/media3.png");
+}
+.post__image--4:before {
+  background-image: url("media/media2ndlst.png");
+}
+.post__image--5:before {
+  background-image: url("media/medialasr.png");
+}
+.post__image--6:before {
+  background-image: url("media/content.png");
+}
+.post__image--7:before {
+  background-image: url("media/media7.jpg");
+}
+.post__image--8:before {
+  background-image: url("media/influencer-4492841_1280.webp");
+}
+.post__image--9:before {
+  background-image: url("media/influencer-panel-2.webp");
+}
+.post__image--10:before {
+  background-image: url("media/gaurav.png");
+}
+.post__image--11:before {
+  background-image: url("media/linkdl.jpg");
+}
+.post__image--12:before {
+  background-image: url("media/Be-YouNick-and-Sunny-Leone.jpg");
+}
+.post__image--13:before {
+  background-image: url("media/ranveermedia13.png");
+}
+.post__image--14:before {
+  background-image: url("media/youniucandrock.jpg");
+}
+.post__image--15:before {
+  background-image: url("media/youniucandrock.jpg");
+}
+.post__image--16:before {
+  background-image: url("media/Radhika-Bangia-1-1-777x437.jpg");
+}
+.post__image--17:before {
+  background-image: url("media/nikfanfest.jpg");
+}
+.post__image--18:before {
+  background-image: url("media/ayushmann-khurrana.jpg");
+}
+.post__image--19:before {
+  background-image: url("media/ayushmann-khurrana2.jpg");
+}
+.post__image--20:before {
+  background-image: url("media/beer-bixceps_d.jpg");
+}  
+.post__image--25:before {
+  background-image: url("media/hqdefault.jpg");
+}   
+.post__image--21:before {
+  background-image: url("media/aa-Cover.jpg");
+}  
+.post__image--22:before {
+  background-image: url("media/when-radhika.jpg");
+}  
+.post__image--23:before {
+  background-image: url("media/freepressjourna.jpg");
+}  
+.post__image--24:before {
+  background-image: url("media/ayushmann-khurrana.jpg");
+}  
+.post__image--26:before {
+  background-image: url("media/ranveer-procedural.jpg");
+} 
+.post__image--27:before {
+  background-image: url("media/deloitte-india-predictions.jpg");
+} 
+.post__image--28:before {
+  background-image: url("media/exclusive_beer.jpg");
+    background-size: contain !important;
+    background-repeat: no-repeat;
+} 
+.post__image--29:before {
+  background-image: url("media/ranveer-his-personal-style.jpg");
+} 
+.post__image--30:before {
+  background-image: url("media/ranveermedia13.png");
+} 
+.post__image--31:before {
+  background-image: url("media/infuluesfsd.webp");
+} 
+.post__image--32:before {
+  background-image: url("media/whatmen.png");
+      background-size: contain !important;
+    background-repeat: no-repeat;
+} 
+.post__image--33:before {
+  background-image: url("media/youtube-was-the-one.jpg");
+} 
+.post__image--34:before {
+  background-image: url("media/be-you-nick.jpg");
+} 
+.post__image--35:before {
+  background-image: url("media/imagecec9cf3b.jpg");
+} 
+.post__image--36:before {
+  background-image: url("media/ranveer-chwarzenegger-and-linda-hamilton.jpg");
+} 
+.post__image--37:before {
+  background-image: url("media/ranveer-chwarzenegger-and-linda-hamilton.jpg");
+} 
+.post__image--38:before {
+  background-image: url("media/5daf379e7e9a6.image.jpg");
+} 
+.post__image--39:before {
+  background-image: url("media/ranveer-chwarzenegger-and-linda-hamilton.jpg");
+} 
+.post__image--40:before {
+  background-image: url("media/taking-the.jpg");
+}
+ .post__image--41:before {
+  background-image: url("media/terry_1570559170435.webp");
+} 
+.post__image--42:before {
+  background-image: url("media/The-Ranveer-Show.jpg");
+} 
+.post__image--43:before {
+  background-image: url("media/priyanka-chopra-interview.jpg");
+} 
+.post__image--44:before {
+  background-image: url("media/Priyanka-Chopr.jpg");
+} 
+.post__image--45:before {
+  background-image: url("media/priyanka-chopra-interview.jpg");
+} 
+.post__image--46:before {
+  background-image: url("media/Virajqote.png");
+   background-size: contain !important;
+    background-repeat: no-repeat;
+} 
+.post__image--47:before {
+  background-image: url("media/saif%20and%20sara.jpg");
+} 
+.post__image--48:before {
+  background-image: url("media/i-am-a-slow-learner-saif-ali-khan-920x518.jpg");
+} 
+.post__image--49:before {
+  background-image: url("media/Nora-Fatehi-in-Garmi-Govinda-in-the-meme-video.webp");
+} 
+.post__image--50:before {
+  background-image: url("media/shradha.png");
+  
+} 
+.post__image--51:before {
+  background-image: url("media/BeFunky-collage-11.jpg");
+} 
+.post__image--52:before {
+  background-image: url("media/fi-5th-march.png");
+} 
+.post__image--53:before {
+  background-image: url("media/RadhikaHoliFINALUPL-1584710877037.png");
+} 
+.post__image--54:before {
+  background-image: url("media/BeFunky-collage-11.jpg");
+} 
+.post__image--55:before {
+  background-image: url("media/BeFunky-collage-2020-04-06T180200.996.jpg");
+}
+
+.post__image--56:before {
+  background-image: url("media/Vishakha-Fulsunge.jpg");
+}
+.post__image--57:before {
+  background-image: url("media/BeFunky-collage-11.jpg");
+}
+.post__image--58:before {
+  background-image: url("media/BeFunky-collage-11.jpg");
+}
+
+
+
+
+.post__content {
+  margin: -3rem 1.5rem 0;
+  padding: 1.5rem;
+  background-color: #fff;
+  border-radius: 3px;
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.15);
+  -webkit-transition: margin 0.2s ease-in-out;
+  transition: margin 0.2s ease-in-out;
+  position: relative;
+  z-index: 1;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.post__inside {
+  overflow: hidden;
+  height: 4.85rem;
+  -webkit-transition: height 0.2s ease-in-out;
+  transition: height 0.2s ease-in-out;
+}
+.post__title {
+  line-height: 1;
+  margin: 0 0 0.9rem;
+  font-weight: 300;
+  color: #042A4F;
+}
+.post__excerpt {
+  overflow: hidden;
+  margin: 0;
+  font-size: 11px;
+  max-height: 6.25rem;
+  position: relative;
+}
+.post__.mybutton88 {
+  margin-top: 1rem;
+}
+
+/* ====== HOVER ====== */
+.post:hover .post__content {
+  margin-top: -9.8rem;
+}
+.post:hover .post__inside {
+  height: 11.65rem;
+}
+.post:hover .post__image:after {
+  opacity: 0.5;
+}
+.post:hover .post__image:before {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  -webkit-filter: blur(10px);
+          filter: blur(10px);
+}
+
+@media only screen   
+and (min-device-width : 1400px) and (max-device-width : 1599px) {
+.img-card2 img {
+    width: 100%;
+    height: 326px;
+    object-fit: cover;
+}
+
+.img-cardala img{
+    width: 100%;
+    height: 326px;object-fit:fill;
+}
+}
